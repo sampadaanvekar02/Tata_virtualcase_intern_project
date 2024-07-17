@@ -33,5 +33,5 @@ Effectively communicate your findings and explain how it relates to each scenari
 2] Effective Communication
 3] Analytics & Insights
 
-
+https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1707300367853/451px-Tata_logo.svg%20(2).png
 
