@@ -2,6 +2,7 @@
 
 Data Visualisation: Empowering Business with Effective Insights
 Gain insights into leveraging data visualisations as a tool for making informed business decisions and various data insights.
+In the project I undertook, I had to go through four stages:
 
 1 - Framing the Business Scenario
 Learn how to anticipate the questions your business leaders will need answers to
